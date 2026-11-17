@@ -1,0 +1,9 @@
+{
+  "name": "eskada-tech-kpi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Дашборд КПІ технічного відділу Ескада",
+  "dependencies": {
+    "jose": "5.9.6"
+  }
+}
